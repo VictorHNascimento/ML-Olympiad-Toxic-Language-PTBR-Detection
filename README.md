@@ -1,6 +1,6 @@
 # ML-Olympiad-Toxic-Language-PTBR-Detection
 
-Projeto feito com base na competição de Detecção de Linguagem Tóxica em Mídias Sociais para o Português Brasileiro feita pelo Kaggle
+Projeto feito em XGBoost no Python, levando como base a competição de Detecção de Linguagem Tóxica em Mídias Sociais para o Português Brasileiro feita pelo Kaggle
 
 "Bem-vindos à competição de Detecção de Linguagem Tóxica em Mídias Sociais para o Português Brasileiro, uma iniciativa que visa abordar um dos desafios mais prementes da nossa era digital: a toxicidade online. Com o crescente uso das redes sociais, a comunicação online tornou-se uma faca de dois gumes, oferecendo tanto oportunidades para conexões significativas quanto espaços para comportamentos prejudiciais e discursos tóxicos. A detecção eficaz de linguagem tóxica é crucial para promover ambientes online mais saudáveis e inclusivos.
 
